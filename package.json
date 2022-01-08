@@ -1,0 +1,22 @@
+{
+  "name": "cli-portfolio-generator",
+  "version": "1.0.0",
+  "description": "creating a node.js cli tool that will generate a basic html file showcasing my portfolio",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeezick/cli-portfolio-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeezick/cli-portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/yeezick/cli-portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
